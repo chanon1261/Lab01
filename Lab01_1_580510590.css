@@ -1,0 +1,39 @@
+body{
+	background-color: #ecf0f1;
+
+}
+.h1{
+	text-align: center;
+	color: 	#930404;
+	background-color: #FF6E6E;
+	
+}
+.calen{
+	color: #97EBFF;
+	text-align: center;
+	background-color: #259;
+	border: 10px;
+	
+}
+.bgH{
+	color: #FF9696;
+	background-color: #E83F5D;
+	text-align: center;
+}
+.bgN{
+	background-color: #82D6F1;
+	text-align: center;
+	width: 13.9%;
+}
+.bgB{
+	background-color: #59E982;
+	text-align: center;
+	width: 13.9%
+}
+.th{
+	text-align: center;
+	width: 13.9%;
+}
+.cen{
+	width: 50%;
+}
